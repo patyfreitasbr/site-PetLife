@@ -145,9 +145,21 @@ h2 {
     border-left: 1px solid #FF725E;
     border-radius: 0 0 8px 8px;
     margin-top: -8;
+    padding: 0 24px;
+    height:0;
+    opacity: 0; /*çinha invisivel*/
+    overflow: hidden; /*transbordamento de um element: escondido*/ 
+    transition:.2s; /*tempo transição do menu */
+
+}
+
+.duvida.ativa .paragrafo {   /*forma de pegar elemetno que tem 2 classes ao mesmo tempo*/
+    height: fit-content; /*altura vai se ajustar para cabe o coneudo*/
+    opacity: 1;
     padding: 24px;
 
 }
+
 footer {
     background-color: rgba(255, 152, 108, 0.25);
     display: flex;
