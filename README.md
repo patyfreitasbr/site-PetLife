@@ -19,7 +19,9 @@ Este projeto é um website para a clínica veterinária PetLife, desenvolvido co
 
 ## Demonstração
 
-![Gif página]()
+[Acesse o site](https://patyfreitasbr.github.io/site-PetLife/)
+
+![Gif página](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJYzfW6h8kZB5QZUbfzcZoNtzyB4V9wv6vC2x6X0ImyUzmXQ2F-8oN3beeWESaHq_EeUlVzzvRt-AMFRZfw0xZwboN2lzi1HxgpJZej8qbvW_TS6NPnM9ffaGy1_Yo5uF60GrBF0Ew4aEGpO5IR1mZR9RIQY1dMG38y6K4DRKpZ6dqe-804Sr9DQhacShh/s16000/Site-PetLife.gif)
 
 
 ## Funcionalidades
